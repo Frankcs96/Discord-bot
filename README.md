@@ -1,4 +1,4 @@
-#Discord Bot :robot:
+# Discord Bot :robot:
 
 Still thinking bot utility :hourglass:
 
