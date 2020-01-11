@@ -1,2 +1,6 @@
-# Discord-bot
-Bot for discord using node.js
+#Discord Bot :robot:
+
+Still thinking bot utility :hourglass:
+
+Technology: Node.js
+
