@@ -1,0 +1,19 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "Bot for discord using node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Frankcs96/Discord-bot.git"
+  },
+  "author": "Fcscode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Frankcs96/Discord-bot/issues"
+  },
+  "homepage": "https://github.com/Frankcs96/Discord-bot#readme"
+}
